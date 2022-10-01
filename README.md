@@ -1,5 +1,7 @@
 # TCC da Etec (2021)
 
+Com finalidade de ajudar pessoas recrutadoras, a procura de profissionais autônomos, nós formamos essa ideia para criar a FACILITA+.
+
 Esse é o projeto do meu grupo de TCC da Etec de Guaianases, foram 2 módulos para realizarmos esse projeto.
 No final saimos com nota máxima.
 
